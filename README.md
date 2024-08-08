@@ -1,0 +1,2 @@
+# Solving-the-Weekly-to-Monthly-Data-Conversion-Challenge-in-DHIS2
+Solving the Weekly to Monthly Data Conversion Challenge in DHIS2. In my work with health information systems, particularly DHIS2, I've encountered a common challenge: converting weekly data to monthly for analysis. This is especially important when integrating data from DHIS2 into tools like Power BI, where accurate period conversion is crucial.
